@@ -1,0 +1,14 @@
+- RESTFull API :
+- Authentication & Authorization :  xác thực và phân quyền
+- Database Index : chỉ mục 
+	-  Đánh Index : Tăng dung lượng , Insert Update chậm đi 
+	-  Ưu tiên đánh index cho Search , Sort , Join
+- Database Transaction :  
+- concurrency : xử lí nhiều request cùng lúc
+- cache : luôn ưu tiên lấy dữ liệu có sẵn trong bộ nhớ đệm , 
+- message queue :  đẩy hàng đợi xử lí tuần tự  ( sử dụng rabibit MQ , Kafa , Amazon SQS)
+- Idempotency : kiểm tra thao tác trùng lặp trả về kết quả đầu tiên
+- rate limiting : kiểm soát số lượng request tối data
+- load balancing :  cân bằng tải 
+	 - mở dọc theo chiều dọc : nâng cấp máy chủ
+	 - mở rộng theo chiều ngang : bổ sung nhiều máy chủ mới -> cần hệ thống cân bằng tải

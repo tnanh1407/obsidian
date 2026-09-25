@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "settingsPopoutWindow": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false
+}

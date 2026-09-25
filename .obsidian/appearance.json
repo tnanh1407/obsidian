@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "accentColor": "",
+  "interfaceFontFamily": "Inter,Times New Roman",
+  "baseFontSizeAction": true,
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "cssTheme": ""
+}
