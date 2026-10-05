@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloudflare/DNS (Domain Name System).md",
-                "mode": "preview",
+                "file": "UI-UX/Chưa đặt tên.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS (Domain Name System)"
+              "title": "Chưa đặt tên"
             }
           }
         ]
@@ -192,6 +192,9 @@
   },
   "active": "ab66656597fe7470",
   "lastOpenFiles": [
+    "Cloudflare/DNS (Domain Name System).md",
+    "UI-UX/Chưa đặt tên.md",
+    "UI-UX",
     "Design Pattern/[1] DESIGN PATTERN.md",
     "Design Pattern/CICD.md",
     "Pasted image 20260923163331.png",
@@ -199,7 +202,6 @@
     "Design Pattern/[2] Strategy Design Pattern - Behavioral Pattern.md",
     "Design Pattern/[0] OOP.md",
     "DATN/DATN__VatPham.md",
-    "Cloudflare/DNS (Domain Name System).md",
     "Pasted image 20260909153329.png",
     "Untitled 1.base",
     "Untitled.canvas",
@@ -236,7 +238,6 @@
     "[[.md",
     "supabase.md",
     "Design Pattern",
-    "RoadMap nodejs/Module",
-    "RoadMap nodejs"
+    "RoadMap nodejs/Module"
   ]
 }
