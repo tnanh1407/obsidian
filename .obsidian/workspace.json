@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloudflare/DNS (Domain Name System).md",
-                "mode": "preview",
+                "file": "SSH/SSH.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS (Domain Name System)"
+              "title": "SSH"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloudflare/DNS (Domain Name System).md",
+                "file": "Design Pattern/[1] DESIGN PATTERN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Outline"
             }
           }
         ],
@@ -186,20 +186,28 @@
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
       "command-palette:Mở khay lệnh": false,
-      "bases:Tạo cơ sở mới": false,
-      "markdown-importer:Mở trình chuyển đổi Markdown": false
+      "markdown-importer:Mở trình chuyển đổi Markdown": false,
+      "bases:Tạo cơ sở mới": false
     }
   },
   "active": "ab66656597fe7470",
   "lastOpenFiles": [
+    "UI UX/STITCH.md",
+    "SSH/SSH.md",
+    "SSH",
+    "UI UX/FIGMA.md",
+    "tool-mlbb/trang uy tín.md",
+    "UI UX",
     "Design Pattern/[1] DESIGN PATTERN.md",
+    "tool-mlbb",
+    "DATN/DATN__VatPham.md",
+    "Design Pattern/[0] OOP.md",
+    "Pasted image 20260911143022.png",
+    "Cloudflare/DNS (Domain Name System).md",
     "Design Pattern/CICD.md",
     "Pasted image 20260923163331.png",
     "Design Pattern/[3] Observer Design Pattern.md",
     "Design Pattern/[2] Strategy Design Pattern - Behavioral Pattern.md",
-    "Design Pattern/[0] OOP.md",
-    "DATN/DATN__VatPham.md",
-    "Cloudflare/DNS (Domain Name System).md",
     "Pasted image 20260909153329.png",
     "Untitled 1.base",
     "Untitled.canvas",
@@ -212,7 +220,6 @@
     "Pasted image 20260911143244.png",
     "Pasted image 20260911143228.png",
     "Pasted image 20260911143226.png",
-    "Pasted image 20260911143022.png",
     "Interview/Internview - 10 define for backend.md",
     "Interview/Untitled",
     "Cloudflare/DNS/Untitled.md",
@@ -231,12 +238,6 @@
     "git.md",
     "docker.md",
     "FIGMA.md",
-    "cicd.md",
-    "TT/task 2.md",
-    "[[.md",
-    "supabase.md",
-    "Design Pattern",
-    "RoadMap nodejs/Module",
-    "RoadMap nodejs"
+    "cicd.md"
   ]
 }
