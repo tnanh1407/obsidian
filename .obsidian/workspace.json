@@ -13,20 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "UI-UX/Chưa đặt tên.md",
-=======
                 "file": "SSH/SSH.md",
->>>>>>> a4aa35cbbd8f5720405bc78f0300bf16a439f297
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Chưa đặt tên"
-=======
+              "title": "Chưa đặt tên",
               "title": "SSH"
->>>>>>> a4aa35cbbd8f5720405bc78f0300bf16a439f297
             }
           }
         ]
@@ -200,18 +194,15 @@
   },
   "active": "ab66656597fe7470",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Cloudflare/DNS (Domain Name System).md",
     "UI-UX/Chưa đặt tên.md",
     "UI-UX",
-=======
     "UI UX/STITCH.md",
     "SSH/SSH.md",
     "SSH",
     "UI UX/FIGMA.md",
     "tool-mlbb/trang uy tín.md",
     "UI UX",
->>>>>>> a4aa35cbbd8f5720405bc78f0300bf16a439f297
     "Design Pattern/[1] DESIGN PATTERN.md",
     "tool-mlbb",
     "DATN/DATN__VatPham.md",
@@ -222,11 +213,8 @@
     "Pasted image 20260923163331.png",
     "Design Pattern/[3] Observer Design Pattern.md",
     "Design Pattern/[2] Strategy Design Pattern - Behavioral Pattern.md",
-<<<<<<< HEAD
     "Design Pattern/[0] OOP.md",
     "DATN/DATN__VatPham.md",
-=======
->>>>>>> a4aa35cbbd8f5720405bc78f0300bf16a439f297
     "Pasted image 20260909153329.png",
     "Untitled 1.base",
     "Untitled.canvas",
@@ -257,15 +245,12 @@
     "git.md",
     "docker.md",
     "FIGMA.md",
-<<<<<<< HEAD
     "cicd.md",
     "TT/task 2.md",
     "[[.md",
     "supabase.md",
     "Design Pattern",
-    "RoadMap nodejs/Module"
-=======
+    "RoadMap nodejs/Module",
     "cicd.md"
->>>>>>> a4aa35cbbd8f5720405bc78f0300bf16a439f297
   ]
 }
